@@ -10,7 +10,7 @@
         "test": "make tests"
     }
   , "dependencies": {
-        "express":     "3.1.0"
+        "express":     "4.15.5"
       , "http-proxy":  "0.10.3"
       , "jade":        "0.27.7"
       , "underscore":  "1.4.2"
